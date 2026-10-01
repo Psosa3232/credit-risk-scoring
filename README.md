@@ -59,7 +59,7 @@ graph LR
 ### Steps
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/credit-risk-scoring.git
+git clone https://github.com/Psosa3232/credit-risk-scoring.git
 cd credit-risk-scoring
 
 python -m venv venv
